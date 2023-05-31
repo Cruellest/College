@@ -1,5 +1,3 @@
-standard_input = ["098.447.895-55","733.184.680-96"]
-
 while True:
     try:
         cpfin = input().split(".")
