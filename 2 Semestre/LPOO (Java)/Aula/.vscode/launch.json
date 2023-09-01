@@ -6,17 +6,16 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Main",
+            "name": "Current File",
             "request": "launch",
-            "mainClass": "Main",
-            "projectName": "College_9fb2e14e"
+            "mainClass": "${file}"
         },
         {
             "type": "java",
-            "name": "main",
+            "name": "Main",
             "request": "launch",
-            "mainClass": "main",
-            "projectName": "College_9fb2e14e"
+            "mainClass": "Main",
+            "projectName": "Aula_899b457f"
         }
     ]
 }
